@@ -8,7 +8,7 @@ Never lose your code.  Keywords: sas sql join merge big data analytics macros or
     Never lose your code
 
        Two methods
-           1. Auto save what you are working on every minute ito your versioning folder
+           1. Auto save what you are working on every minute into your versioning folder
            2. Single function key that saves a copy of your program with a dynamic temestamp.
               (seconds since you started the SAS applications - timestamp changes by seconds)
 
